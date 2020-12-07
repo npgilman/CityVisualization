@@ -1,0 +1,308 @@
+{
+    "Alabama" : {
+        "State_ID" : "AL",
+        "Lat" : 32.3182,
+        "Long" : -86.9023,
+        "Scale" : 60
+    },
+    "Alaska" : {
+        "State_ID" : "AK",
+        "Lat" : 64.2008,
+        "Long" : -149.4937,
+        "Scale" : 15
+    },
+    "Arizona" : {
+        "State_ID" : "AZ",
+        "Lat" : 34.0489,
+        "Long" : -111.0937,
+        "Scale" : 60
+    },
+    "Arkansas" : {
+        "State_ID" : "AR",
+        "Lat" : 35.2010,
+        "Long" : -91.8318,
+        "Scale" : 60
+    },
+    "California" : {
+        "State_ID" : "CA",
+        "Lat" : 36.7783,
+        "Long" : -119.4179,
+        "Scale" : 55
+    },
+    "Colorado" : {
+        "State_ID" : "CO",
+        "Lat" : 39.5501,
+        "Long" : -105.7821,
+        "Scale" : 60
+    },
+    "Connecticut" : {
+        "State_ID" : "CT",
+        "Lat" : 41.6032,
+        "Long" : -73.0877,
+        "Scale" : 60
+    },
+    "Delaware" : {
+        "State_ID" : "DE",
+        "Lat" : 38.9108,
+        "Long" : -75.5277,
+        "Scale" : 60
+    },
+    "Florida" : {
+        "State_ID" : "FL",
+        "Lat" : 27.6648,
+        "Long" : -81.5158,
+        "Scale" : 60
+    },
+    "Georgia" : {
+        "State_ID" : "GA",
+        "Lat" : 32.1656,
+        "Long" : -82.9001,
+        "Scale" : 60
+    },
+    "Hawaii" : {
+        "State_ID" : "HI",
+        "Lat" : 19.8968,
+        "Long" : -155.5828,
+        "Scale" : 60
+    },
+    "Idaho" : {
+        "State_ID" : "ID",
+        "Lat" : 44.0682,
+        "Long" : -114.7420,
+        "Scale" : 60
+    },
+    "Illinois" : {
+        "State_ID" : "IL",
+        "Lat" : 40.6331,
+        "Long" : -89.3985,
+        "Scale" : 60
+    },
+    "Indiana" : {
+        "State_ID" : "IN",
+        "Lat" : 40.2672,
+        "Long" : -86.1349,
+        "Scale" : 60
+    },
+    "Iowa" : {
+        "State_ID" : "IA",
+        "Lat" : 41.8780,
+        "Long" : -93.0977,
+        "Scale" : 60
+    },
+    "Kansas" : {
+        "State_ID" : "KS",
+        "Lat" : 39.0119,
+        "Long" : -98.4842  ,
+        "Scale" : 60
+    },
+    "Kentucky" : {
+        "State_ID" : "KY",
+        "Lat" : 37.8393,
+        "Long" : -84.2700,
+        "Scale" : 60
+    },
+    "Louisiana" : {
+        "State_ID" : "LA",
+        "Lat" : 30.9843,
+        "Long" : -91.9623,
+        "Scale" : 60
+    },
+    "Maine" : {
+        "State_ID" : "ME",
+        "Lat" : 45.2538,
+        "Long" : -69.4455,
+        "Scale" : 60
+    },
+    "Maryland" : {
+        "State_ID" : "MD",
+        "Lat" : 39.0458,
+        "Long" : -76.6413,
+        "Scale" : 60
+    },
+    "Massachusetts" : {
+        "State_ID" : "MA",
+        "Lat" : 42.4072,
+        "Long" : -71.3824,
+        "Scale" : 60
+    },
+    "Michigan" : {
+        "State_ID" : "MI",
+        "Lat" : 44.3148,
+        "Long" : -85.6024,
+        "Scale" : 60
+    },
+    "Minnesota" : {
+        "State_ID" : "MN",
+        "Lat" : 46.7296,
+        "Long" : -94.6859,
+        "Scale" : 60
+    },
+    "Mississippi" : {
+        "State_ID" : "MS",
+        "Lat" : 32.3547,
+        "Long" : -89.3985,
+        "Scale" : 60
+    },
+    "Missouri" : {
+        "State_ID" : "MO",
+        "Lat" : 37.9643,
+        "Long" : -91.8318,
+        "Scale" : 60
+    },
+    "Montana" : {
+        "State_ID" : "MT",
+        "Lat" : 46.8797,
+        "Long" : -110.3626,
+        "Scale" : 60
+    },
+    "Nebraska" : {
+        "State_ID" : "NE",
+        "Lat" : 41.4925,
+        "Long" : -99.9018,
+        "Scale" : 60
+    },
+    "Nevada" : {
+        "State_ID" : "NV",
+        "Lat" : 38.8026,
+        "Long" : -116.4194,
+        "Scale" : 60
+    },
+    "New Hampshire" : {
+        "State_ID" : "NH",
+        "Lat" : 43.1939,
+        "Long" : -71.5724,
+        "Scale" : 60
+    },
+    "New Jersey" : {
+        "State_ID" : "NJ",
+        "Lat" : 40.0583,
+        "Long" : -74.4057,
+        "Scale" : 240
+    },
+    "New Mexico" : {
+        "State_ID" : "NM",
+        "Lat" : 34.5199,
+        "Long" : -105.8701,
+        "Scale" : 60
+    },
+    "New York" : {
+        "State_ID" : "NY",
+        "Lat" : 40.7128,
+        "Long" : -74.0060,
+        "Scale" : 60
+    },
+    "North Carolina" : {
+        "State_ID" : "NC",
+        "Lat" : 35.7596,
+        "Long" : -79.0193,
+        "Scale" : 60
+    },
+    "North Dakota" : {
+        "State_ID" : "ND",
+        "Lat" : 47.5515,
+        "Long" : -101.0020,
+        "Scale" : 60
+    },
+    "Ohio" : {
+        "State_ID" : "OH",
+        "Lat" : 40.4173,
+        "Long" : -82.9071,
+        "Scale" : 60
+    },
+    "Oklahoma" : {
+        "State_ID" : "OK",
+        "Lat" : 35.0078,
+        "Long" : -97.0929,
+        "Scale" : 60
+    },
+    "Oregon" : {
+        "State_ID" : "OR",
+        "Lat" : 43.8041,
+        "Long" : -120.5542,
+        "Scale" : 60
+    },
+    "Pennsylvania" : {
+        "State_ID" : "PA",
+        "Lat" : 41.2033,
+        "Long" : -77.1945,
+        "Scale" : 60
+    },
+    "Rhode Island" : {
+        "State_ID" : "RI",
+        "Lat" : 41.5801,
+        "Long" : -71.4774,
+        "Scale" : 60
+    },
+    "South Carolina" : {
+        "State_ID" : "SC",
+        "Lat" : 33.8361,
+        "Long" : -81.1637,
+        "Scale" : 60
+    },
+    "South Dakota" : {
+        "State_ID" : "SD",
+        "Lat" : 43.9695,
+        "Long" : -99.9018,
+        "Scale" : 60
+    },
+    "Tennessee" : {
+        "State_ID" : "TN",
+        "Lat" : 35.5175,
+        "Long" : -86.5804,
+        "Scale" : 60
+    },
+    "Texas" : {
+        "State_ID" : "TX",
+        "Lat" : 31.9686,
+        "Long" : -99.9018,
+        "Scale" : 60
+    },
+    "Utah" : {
+        "State_ID" : "UT",
+        "Lat" : 39.3210,
+        "Long" : -111.0937,
+        "Scale" : 60
+    },
+    "Vermont" : {
+        "State_ID" : "VT",
+        "Lat" : 44.5588,
+        "Long" : -72.5778,
+        "Scale" : 60
+    },
+    "Virginia" : {
+        "State_ID" : "VA",
+        "Lat" : 37.4316,
+        "Long" : -78.6569,
+        "Scale" : 60
+    },
+    "Washington" : {
+        "State_ID" : "WA",
+        "Lat" : 47.7511,
+        "Long" : -120.7401,
+        "Scale" : 60
+    },
+    "West Virginia" : {
+        "State_ID" : "WV",
+        "Lat" : 38.5976,
+        "Long" : -80.4549,
+        "Scale" : 60
+    },
+    "Wisconsin" : {
+        "State_ID" : "WI",
+        "Lat" : 43.7844,
+        "Long" : -88.7879,
+        "Scale" : 60
+    },
+    "Wyoming" : {
+        "State_ID" : "WY",
+        "Lat" : 43.0760,
+        "Long" : -107.2903,
+        "Scale" : 60
+    }
+
+
+
+
+    
+
+}
